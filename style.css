@@ -3,13 +3,13 @@
     --primary-color: #2C7DFA;
     --big-text-color: #1F314F;
     --small-text-color: #7D889E;
+    font-size: 10px;
 }
 
 
 body {
     background: var(--background-color);
     box-sizing: border-box;
-    font-size: 10px;
 }
 
 main {
